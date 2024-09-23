@@ -17,8 +17,8 @@ moving:
 
   # generate social links in about page.
   social_links:
-    twitter: https://x.com/vaibhaw_vipul
-    github: https://github.com/vaibhawvipul
+    twitter: vaibhaw_vipul
+    github: vaibhawvipul
     rss: RSS
     # dribbble:
     facebook:
