@@ -1,15 +1,3 @@
-# moving
-
-[![Gem Version](https://badge.fury.io/rb/moving.svg)](https://badge.fury.io/rb/moving) ![Build Status](https://github.com/huangyz0918/moving/actions/workflows/deploy.yml/badge.svg) ![progress](https://img.shields.io/badge/progress-releasing-blue.svg) ![](https://img.shields.io/gem/dt/moving)
-
-Moving is a clean and minimalist theme for [Jekyll](https://jekyllrb.com/), focusing on pure and efficient writing. [[view demo]](https://huangyz.name/moving/)
-
-
-![](./.github/banner.png)
-
-If you enjoy this theme, you can buy me a coffee : )
-
-[![Support via PayPal](https://cdn.jsdelivr.net/gh/twolfson/paypal-github-button@1.0.0/dist/button.svg)](https://www.paypal.me/huangyz0918)
 
 ## Installation
 
@@ -40,30 +28,6 @@ Run the blog in localhost
 ```bash
 jekyll serve
 ```
-
-Once you successfully run the moving blog, you can modify the theme and add posts by yourself, have fun!
-
-### Add Moving to an Existing Blog
-
-Add this line to your Jekyll site's `Gemfile`:
-
-```ruby
-gem "moving"
-```
-
-And add this line to your Jekyll site's `_config.yml`:
-
-```yaml
-theme: moving
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install moving
 
 ### Deploy to Github Pages
 
@@ -96,19 +60,6 @@ moving:
 # Build settings
 theme: moving # note, please use huangyz0918/moving if you want to publish to Github Pages.
 ```
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at [here](https://github.com/huangyz0918/moving). This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
-## Development
-
-To set up your environment to develop this theme, run `bundle install`.
-
-Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-When your theme is released, only the files in `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
-To add a custom directory to your theme-gem, please edit the regexp in `moving.gemspec` accordingly.
 
 ## License
 
