@@ -2,20 +2,19 @@
 layout: post
 ---
 
-# Regret and Strategy: Understanding Incomplete Information in Games
+# Regret Minimization in Games with Incomplete Information
 
-I was reading [this paper](https://proceedings.neurips.cc/paper/2007/file/08d98638c6fcd194a4b1e6992063e944-Paper.pdf). Following are some notes I took or thoughts I had while reading it.
+[this paper](https://proceedings.neurips.cc/paper/2007/file/08d98638c6fcd194a4b1e6992063e944-Paper.pdf).
 
-In the game of poker, players are dealt a hand of cards that they keep secret from their opponents. This hidden information is what makes poker a game of incomplete information. Players must make decisions based on the information they have, while trying to infer what their opponents might be holding. This uncertainty is what makes poker so interesting and challenging.
-
-This paper describes a new technique for finding approximate solutions to large extensive games. They show that minimizing counterfactual regret minimizes overall regret, and therefore can be used to compute a Nash equilibrium.
+This paper describes a new technique for finding approximate solutions to large extensive games. They authors show that minimizing counterfactual regret minimizes overall regret.
 
 ## What is Regret?
 
+In Poker, we deal with incomplete information and uncertainity.
+
 Regret is the difference between the payoff of the best possible action and the payoff of the action taken; in poker, it is how much you wish you had played a different hand.
 
-Extensive games with incomplete information, like poker, are a vital area in game theory, focusing on regret—the player's wish for different past actions based on current knowledge. These games model sequential decision-making amid imperfect information, where players' actions shape the information available to others. Extensive games provide a general yet compact model of multiagent interaction, which explicitly
-represents the often sequential nature of these interactions
+Extensive games with incomplete information, like poker, are a vital area in game theory, focusing on regret—the player's wish for different past actions based on current knowledge. These games model sequential decision-making amid imperfect information, where players' actions shape the information available to others. Extensive games provide a general yet compact model of multiagent interaction, which explicitly represents the often sequential nature of these interactions.
 
 Just FYI, MDPs and POMDPs models (used in reinforcement learning) are solo decision-making under uncertainty, while extensive games involve strategic interactions among multiple decision-makers.
 
@@ -89,7 +88,7 @@ This reflects player \( i \)’s regret in decisions at \( I \) based on counter
 
 ### key results of the paper
 
-- Minimizing immediate counterfactual regret minimizes the overall regret, it enables us to find an approximate Nash equilibrium if we can only minimize the immediate counterfactual regret.
+- Minimizing immediate counterfactual regret directly reduces overall regret, allowing us to find an approximate Nash equilibrium.
 
 - This approach, similar to Gordon’s Lagrangian Hedging algorithms, avoids costly quadratic program projections while computing a Nash equilibrium in self-play.
 
