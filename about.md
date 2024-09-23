@@ -2,9 +2,21 @@
 layout: about
 ---
 
-These are controlled by `about.md` under the root directory. If you want a more diverse self-introduction, you can insert the markdown content you want here.
+Hello! Nice to see you here.
 
-### What's New
+I'm a software engineer with around 7 years of experience working in the field of data, where I've held roles as a data scientist, data engineer, and now as a developer of big data tools and software engineering in general.
 
-- One paper got accepted in xxx 2019.
-- I'm going to join xxx as a xxx 2019 Fall.
+I have a deep passion for systems engineering and am currently excited about :
+- concurrent and parallel programming
+- distributed systems
+- operating systems
+- databases
+
+I'm love contributing to open source projects. I am working on projects like -
+- [Apache Datafusion-Comet](https://github.com/apache/datafusion-comet): It is a Spark Accelerator written in rust and scala.
+- [raft-rs](https://github.com/spacewalkhq/raft-rs) (maintainer and author): An understandable, fast, customizable and scalable async-await Raft consensus algorithm implementation with zero-copy and self-healing storage.
+
+I've also made minor contributions to Apache Iceberg-rust and ParadeDB.
+
+### Reach out to me
+- most accessible on email: vaibhaw [dot] vipul [at] gmail [dot] com
