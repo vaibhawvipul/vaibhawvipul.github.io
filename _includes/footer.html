@@ -7,7 +7,7 @@
             <li class="p-name">
               {%- if site.author -%}
                 <a class="black-link" href="{{ site.url }}/about.html">
-                  {{ site.author | escape }} - About
+                  {{ site.author | escape }} - About | <a class="black-link" href="{{ site.url }}/feed.xml">RSS Feed</a>
                 </a>
               {%- endif -%}
               </li>
