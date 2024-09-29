@@ -171,6 +171,8 @@ GPipe offers near-linear speedup as the number of devices increases. It is flexi
 
 This [paper](https://www.usenix.org/system/files/osdi22-zheng-lianmin.pdf) introduces Alpa, a system that automates inter- and intra-operator parallelism for distributed deep learning.
 
+*Note: I have only done first reading of the paper, so I might not have understood or read everything correctly, especially the mathematical part.*
+
 Alpa distributes the training of large DL models by viewing parallelisms as two hierarchical levels: inter-operator and intra-operator parallelisms.
 
 The key idea is that parallelization techniques can be organized hierarchically and mapped to the compute cluster's structure. Different techniques have varying communication bandwidth needs, while clusters have a similar hierarchy: nearby devices have high bandwidth, and distant ones have limited bandwidth.
@@ -233,5 +235,13 @@ for batch in data_loader:
 Source: [Paper](https://www.usenix.org/system/files/osdi22-zheng-lianmin.pdf)
 
 ---
+
+## Conclusion
+
+Based on watching [this video lecture series by MIT HAN Lab](https://www.youtube.com/watch?v=2VdmlWxY1fE), I got introduced to the concept of distributed training of deep learning models.
+
+This part focused on the motivation behind distributed training and the different types of parallelism that can be exploited to speed up the training of deep learning models.
+
+The next part will focus more on communication strategies, gradient compression, and other techniques to make distributed training more efficient.
 
 Let me know if you have any questions or suggestions in email.
