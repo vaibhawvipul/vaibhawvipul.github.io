@@ -242,6 +242,6 @@ Based on watching [this video lecture series by MIT HAN Lab](https://www.youtube
 
 This part focused on the motivation behind distributed training and the different types of parallelism that can be exploited to speed up the training of deep learning models.
 
-The next part will focus more on communication strategies, gradient compression, and other techniques to make distributed training more efficient.
+The [next part]({{site.url}}/2024/09/29/Distributed-Training-of-Deep-Learning-models-Part-~-1.html) focuses more on communication strategies, gradient compression, and other techniques to make distributed training more efficient.
 
 Let me know if you have any questions or suggestions in email.
