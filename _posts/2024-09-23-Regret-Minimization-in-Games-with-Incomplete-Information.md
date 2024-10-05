@@ -1,5 +1,7 @@
 ---
 layout: post
+title: Regret Minimization in Games with Incomplete Information
+author: "Vipul Vaibhaw"
 ---
 
 # Regret Minimization in Games with Incomplete Information

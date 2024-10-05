@@ -1,5 +1,7 @@
 ---
 layout: post
+title: MapReduce vs Divide-and-Conquer
+author: "Vipul Vaibhaw"
 ---
 *Note: I use AI models to help with writing. If you spot any mistakes, feel free to correct me!*
 

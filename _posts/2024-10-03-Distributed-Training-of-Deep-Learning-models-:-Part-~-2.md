@@ -1,5 +1,7 @@
 ---
 layout: post
+title: Distributed Training of Deep Learning models - Part ~ 2
+author: "Vipul Vaibhaw"
 ---
 *Note: I use AI models to help with writing. Now, this is more like notes for me so you will find stuff copied directly from various places. If you spot any mistakes, feel free to correct me!*
 
