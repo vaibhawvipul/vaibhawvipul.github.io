@@ -33,7 +33,7 @@ The fundamental differences between the two models influence the structure of th
 
 ---
 
-# Vectorized vd Compiled Queries
+# Vectorized vs Compiled Queries
 
 They key idea behind vectorized query processing is to process multiple tuples at once, rather than one at a time.
 
