@@ -37,10 +37,6 @@ SparkFuzz supports two testing modes:
 2. **Cross-instance Testing**: Comparing results from different Spark SQL instances.
 
 ---
-
-Just a note - Cohort 8 of empowered coder starts on October 26th, 2024. If you are eager in diving deep into concurrency, parallelism, and distributed systems, you should definitely check it out. - [Empowered Coder](https://empoweredcoder.com/)
-
----
 # THE SPARKFUZZ FRAMEWORK
 
 ## Design Overview
