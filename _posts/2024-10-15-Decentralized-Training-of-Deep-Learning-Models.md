@@ -4,7 +4,7 @@ title: Decentralized Training of Deep Learning Models
 author: "Vipul Vaibhaw"
 ---
 
-In the previous posts we talked about Distributed Training of DL models [Part 1]({{site.url}}/2024/09/29/Distributed-Training-of-Deep-Learning-models-Part-~-1.html) and [Part 2]({{site.url}}/2024/10/03/Distributed-Training-of-Deep-Learning-models-Part-~-2.html). Now, in this post we will delve deeper into decentralized training of deep learning models.
+In the previous posts we talked about Distributed Training of DL models [Part 1]({{site.url}}/2024/09/29/Distributed-Training-of-Deep-Learning-models-Part-~-1.html) and [Part 2]({{site.url}}/2024/10/03/Distributed-Training-of-Deep-Learning-models-Part-~-2.html). Now, in this post we will dive deeper into decentralized training of deep learning models.
 
 *Note: This is part of a series on Distributed Training of Deep Learning models. It’s a personal reference, with content copied from various sources. I use AI tools for writing, as English isn't my first language. Corrections are welcome!*
 
