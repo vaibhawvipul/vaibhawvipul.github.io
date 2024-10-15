@@ -132,6 +132,7 @@ This [paper](https://proceedings.neurips.cc/paper/2021/file/fc03d48253286a798f51
 ## Conclusion
 
 With this blog post we come to the end of the series on Distributed Training of Deep Learning models. In the previous post, we discussed the challenges of distributed training and the compute aspects of it. In this post, we focused on the communication bottlenecks that arise during distributed training, specifically bandwidth and latency.
+Also if you are interested in decentralized training of deep learning models, you can read the post [third part]({{site.url}}/2024/10/15/Decentralized-Training-of-Deep-Learning-Models.html).
 
 ## References
 - [Lecture 14 - Distributed Training and Gradient Compression (Part II) - MIT 6.S965](https://www.youtube.com/watch?v=2VdmlWxY1fE)
