@@ -37,6 +37,8 @@ I love sharing things I learn and work I do on my blog and X.
 ## Topics I'm Excited About
 ### Mathematics:
 - Real Analysis
+- Abstract Algebra
+= Topology
 - Calculus
 - Game Theory
 - Probability and Statistics
@@ -46,6 +48,8 @@ I love sharing things I learn and work I do on my blog and X.
 - Database Internals
 - Operating Systems
 - Parallel Programming
+- Deep Learning
+- Formal Methods and Proofs
 
 ## Open Source
 
@@ -55,7 +59,7 @@ I am working on projects like -
 - [Apache Datafusion-Comet](https://github.com/apache/datafusion-comet): It is a Spark Accelerator written in rust and scala.
 - [raft-rs](https://github.com/spacewalkhq/raft-rs) (maintainer and author): An understandable, fast, customizable and scalable async-await Raft consensus algorithm implementation with zero-copy and self-healing storage.
 
-I've also made minor contributions to Apache Iceberg-rust and ParadeDB.
+I've also made minor contributions to [Apache Iceberg-rust](https://github.com/apache/iceberg-rust/pulls?q=is%3Apr+author%3Avaibhawvipul+is%3Aclosed), [ParadeDB](https://github.com/paradedb/paradedb/pulls?q=is%3Apr+author%3Avaibhawvipul+is%3Aclosed), [Arroyo](https://github.com/ArroyoSystems/arroyo/pulls) etc.
 
 ### Reach out to me
 - most accessible on email: vaibhaw [dot] vipul [at] gmail [dot] com
