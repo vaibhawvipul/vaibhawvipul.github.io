@@ -34,11 +34,11 @@ I like evangelizing and have spoken at various meetups and conferences. I have s
 
 I love sharing things I learn and work I do on my blog and X.
 
-## Topics I'm Excited About
+## Topics I'm Excited About (not expert in all of them but love learning about them)
 ### Mathematics:
 - Real Analysis
 - Abstract Algebra
-= Topology
+- Topology
 - Calculus
 - Game Theory
 - Probability and Statistics
