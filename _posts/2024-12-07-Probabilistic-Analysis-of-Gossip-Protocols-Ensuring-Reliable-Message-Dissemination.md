@@ -16,7 +16,7 @@ $$
 X_t \sim \text{Binomial}(n, p), \quad \text{where } p = \frac{U_t}{N}.
 $$
 
-Here, $n$ is the total number of gossip attempts, and $p$ is the probability of selecting an uninformed node.
+Here, $$n$$ is the total number of gossip attempts, and $$p$$ is the probability of selecting an uninformed node.
 
 ---
 
@@ -61,4 +61,4 @@ For $$n > 10, e^{-\lambda \cdot n}$$ becomes negligible, meaning nearly all node
 
 ## Conclusion
 
-By modeling the gossip protocol as a binomial process and approximating it with a Poisson distribution, we see that the failure probability decreases exponentially with the number of rounds. For $$n > 10$$, the probability of a node remaining uninformed drops below $$0.05$$, ensuring reliable message dissemination. The result is independent of $$k$$ (the number of nodes chosen for gossip) or the total size of the cluster.
+By modeling the gossip protocol as a binomial process and approximating it with a Poisson distribution, we see that the failure probability decreases exponentially with the number of rounds. For $$n > 10$$, the probability of a node remaining uninformed drops below $$0.05$$, ensuring reliable message dissemination. The result is true for sufficiently large $$N$$ and small $$p$$.
