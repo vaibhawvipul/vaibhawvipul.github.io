@@ -23,13 +23,13 @@ Here, $$n$$ is the total number of gossip attempts, and $$p$$ is the probability
 ## Poisson Approximation and Failure Probability
 
 ### Poisson Approximation
-For large $n$ and small $p$, the binomial distribution can be approximated by a Poisson distribution with parameter:
+For large $$n$$ and small $$p$$, the binomial distribution can be approximated by a Poisson distribution with parameter:
 
 $$
 \lambda = n \cdot \frac{U_t}{N}.
 $$
 
-Thus, $X_t$ can be written as:
+Thus, $$X_t$$ can be written as:
 
 $$
 X_t \sim \text{Poisson}(\lambda).
