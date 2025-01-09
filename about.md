@@ -4,6 +4,8 @@ layout: about
 
 Hello! Nice to see you here. 👋
 
+currently working @ [Pre6.ai](https://pre6.ai/) doing math and programming with rust.
+
 I'm a software engineer with interest in distributed systems, parallel systems and databases.
 
 I love topics around systems engineering and am currently excited about :
