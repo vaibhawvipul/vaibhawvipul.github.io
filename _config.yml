@@ -3,14 +3,14 @@ author: Vipul Vaibhaw # Your name
 email: vaibhaw.vipul@gmail.com # your email shown in the footer
 url: https://vaibhawvipul.github.io # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
-  My long form writing about tech and other things.
+  My long form writing about tech, math, startups and other things.
 favicon: "./favicon.ico" # set the favicon of the site
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Moving date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 moving:
-  avatar_url: "https://yt3.googleusercontent.com/kdaIkpMZJztcZryW3g5H6sH9Fd6WjVsbjwukTMlmoDzF1HHVJ6BpGzENUTfIyRKSH8KRV2OhAg=s900-c-k-c0x00ffffff-no-rj" # avatar in about page
+  avatar_url: "https://avatars.githubusercontent.com/u/10995936?v=4" # avatar in about page
   about_you: Software Engineer. # short description about you in about page
   date_format: "%b %d" # date format of posts in home page
   back_to: "Home" # In the post page, you have a back button above the title, you can custom the text by yourself.

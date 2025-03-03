@@ -4,15 +4,17 @@ layout: about
 
 Hello! Nice to see you here. 👋
 
-currently working @ [Pre6.ai](https://pre6.ai/) doing math and programming with rust.
+Founding Engineer @ [Pre6.ai](https://pre6.ai/) doing math and programming with rust + typescript.
 
 I'm a software engineer with interest in distributed systems, parallel systems and databases.
 
 I love topics around systems engineering and am currently excited about :
+- Computational Geometry
+- Programming Languages
+- Compilers - MLIR
 - concurrent and parallel programming
-- distributed systems
-- operating systems
-- database internals (especially OLAP systems)
+
+Previously worked extensively on distributed systems, OS, and database internals.
 
 ## My Journey
 
@@ -32,18 +34,11 @@ My software writing philosophy is getting influenced by -
 
 I love teaching. I sometimes teach at [Empowered Coder](https://empoweredcoder.com/). I have taught courses on Rust, Distributed Systems, and Operating Systems. I have also taught a data science course as a visiting faculty at [Fergusson College](https://fergusson.edu/).
 
-I like evangelizing and have spoken at various meetups and conferences. I have spoken at Rust Pune, FOSS Pune, Rust Bangalore and Rust Mumbai meetups.
+I like evangelizing open source projects and have spoken at various meetups and conferences. I have spoken at Rust Pune, FOSS Pune, Rust Bangalore and Rust Mumbai meetups.
 
 I love sharing things I learn and work I do on my blog and X.
 
 ## Topics I'm Excited About (not expert in all of them but love learning about them)
-### Mathematics:
-- Real Analysis
-- Abstract Algebra
-- Topology
-- Calculus
-- Game Theory
-- Probability and Statistics
 
 ### Computer Science:
 - Distributed Systems
@@ -52,6 +47,14 @@ I love sharing things I learn and work I do on my blog and X.
 - Parallel Programming
 - Deep Learning
 - Formal Methods and Proofs
+
+### Mathematics:
+- Real Analysis
+- Abstract Algebra
+- Topology
+- Calculus
+- Game Theory
+- Probability and Statistics
 
 ## Open Source
 
