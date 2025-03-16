@@ -45,4 +45,4 @@ If one has demostrated these traits in the past, they are a good fit.
 
 ---
 
-reach out [x](https://x.com/vipul_vaibhaw) or [github](https://github.com/vaibhawvipul) or [email](vipul@pre6.ai) for more.
+reach out on [x](https://x.com/vaibhaw_vipul) or [github](https://github.com/vaibhawvipul) or [email](vipul@pre6.ai) for more.
