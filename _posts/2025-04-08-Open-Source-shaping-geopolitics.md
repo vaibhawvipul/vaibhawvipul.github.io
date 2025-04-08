@@ -24,7 +24,7 @@ So were the Indian markets. The Indian markets were down by ~5% post tarrif news
 
 Indian IT companies were down by ~10% post tarrif news. The Indian IT companies are heavily dependent on the US markets.
 
-![Indian IT Companies Post Tarrifs](../../../assets/images/open-source-shaping-geo-politics-us-china/Indian IT Companies Post Tarrifs.png)
+![Indian IT Companies Post Tarrifs](../../../assets/images/open-source-shaping-geo-politics-us-china/Indian IT post tarrifs.png)
 
 
 
