@@ -83,7 +83,7 @@ When Microsoft dominated operating systems, Linux emerged as the counterweight. 
 
 Big Tech does use open source to establish standardization. Google open-sourced TensorFlow to set standards in ML. Facebook released React to shape the frontend ecosystem.
 
-We’ve seen this with OpenAI moving away from openness, Meta selectively open-sourcing LLaMA. LLaMA Fails at freedom 0, the freedom to use the model for any purpose, [discriminates against users](https://ioplus.nl/en/posts/european-union-excluded-from-llama-4-multimodal-models), restricts fields of endeavour. for more - https://opensource.org/blog/metas-llama-license-is-still-not-open-source.
+We’ve seen this with OpenAI moving away from openness, Meta selectively open-sourcing LLaMA. LLaMA Fails at freedom 0, the freedom to use the model for any purpose, [discriminates against users](https://ioplus.nl/en/posts/european-union-excluded-from-llama-4-multimodal-models), restricts fields of endeavour. for more - [https://opensource.org/blog/metas-llama-license-is-still-not-open-source](https://opensource.org/blog/metas-llama-license-is-still-not-open-source).
 
 We have seen [Github blocking developers in countries facing US trade sanctions](https://www.zdnet.com/article/github-starts-blocking-developers-in-countries-facing-us-trade-sanctions/). Remember you can be sanctioned someday if US decides to sanction your country.
 
@@ -104,7 +104,8 @@ And everyone—from engineers to policymakers—should pay attention.
 
 ### References
 
-- https://en.wikipedia.org/wiki/Tariffs_in_the_second_Trump_administration
-- https://www.youtube.com/watch?v=IzZ-P26eyFQ
-- https://www.youtube.com/watch?v=b0DO0tP06eQ
-- https://www.getlago.com/blog/deepseek-open-source
+- [https://en.wikipedia.org/wiki/Tariffs_in_the_second_Trump_administration](https://en.wikipedia.org/wiki/Tariffs_in_the_second_Trump_administration)
+- [https://www.youtube.com/watch?v=IzZ-P26eyFQ](https://www.youtube.com/watch?v=IzZ-P26eyFQ)
+- [https://www.youtube.com/watch?v=b0DO0tP06eQ](https://www.youtube.com/watch?v=b0DO0tP06eQ)
+- [https://www.getlago.com/blog/deepseek-open-source](https://www.getlago.com/blog/deepseek-open-source)
+- [https://en.wikipedia.org/wiki/Allegations_of_intellectual_property_infringement_by_China](https://en.wikipedia.org/wiki/Allegations_of_intellectual_property_infringement_by_China)
