@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Open Source shaping geopolitics: US vs China'
+title: 'Open Source: A hedge against tariffs and geopolitics'
 date: 2025-04-08
 author: "Vipul Vaibhaw"
 ---
@@ -18,7 +18,7 @@ These days POTUS has imposed insane tariffs across the world. [36% on China](htt
 
 The impact was global. The US markets were down by ~15% post tarrif news. It introduced a lot of uncertainty in the markets. Will it remain the same? Will it go up? Will it go down? The markets were in a state of flux.
 
-So were the Indian markets. The Indian markets were down by ~5% post tarrif news.
+So were the Indian markets. The Indian markets were down by ~5% post tarrif news. India and China were hit the least because of the huge domestic markets in contrast to export dependent countries like Vietnam, Japan, etc. However, we are very early to comment on the impact of tarrifs globally.
 
 ![Indian Markets Post Tarrifs](../../../assets/images/open-source-shaping-geo-politics-us-china/Indian Market Post Tarrifs.png)
 
@@ -31,13 +31,8 @@ It was not that people were not expecting it. The magnitude of the tarrifs was u
 ![Tarrif Imapct from Ashwath Damodaran Slides](../../../assets/images/open-source-shaping-geo-politics-us-china/Tarrif Impact.png)
 reference - [The Anatomy of a Crisis: Tariff Talk and Market Reaction!](https://www.youtube.com/watch?v=IzZ-P26eyFQ&t=9s)
 
-
-
-
-## Open Source and Geopolitics
+## Open Source: A hedge against tarrifs
 
 China has always been a proponent of open source. I am not sure if it is because of state-driven or state-sponsored mandate.
-
-Huwa
 
 
