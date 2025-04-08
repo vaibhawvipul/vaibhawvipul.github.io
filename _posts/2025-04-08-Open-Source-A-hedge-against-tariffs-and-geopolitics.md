@@ -5,7 +5,7 @@ date: 2025-04-08
 author: "Vipul Vaibhaw"
 ---
 
-Note - This is my personal take on how to build tech teams for the future. Not affiliated with any company or my current employer.
+Note - This is my personal take. Not affiliated with any company or my current employer.
 Also, this is just a quick note rather than a well thought article. I will be expanding on this in the future.
 I am not a geopolitical expert. I am not an economist. I am not a lawyer. I am just a software engineer who is trying to make sense of the world around me.
 In no way this is a critique of US or China.
