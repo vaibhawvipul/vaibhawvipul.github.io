@@ -39,6 +39,8 @@ The dominant theme that emerges is of a marking down of equity values to reflect
 The macro environment has become poker like. Tarrifs and Counter-tarrifs are the new normal. Outcomes can be an open trade war to a partial trade war to a complete tarrif-free world. The outcomes are uncertain and the markets are reacting to it.
 This is less about economics and more about game theory.
 
+---
+
 ## What does open source mean to me?
 Anyone can use, study, modify, and share the software freely — with minimal or no restrictions.
 
@@ -96,11 +98,11 @@ They have identified open source as their hedge and they are doubling down on it
 
 Also, this does not mean that US companies are not investing in open source. They are. But this post is more about Open Source as a strategic play rather than an ideological play.
 
-Open source is no longer just a technical movement. It's economic resilience, geopolitical strategy, and cultural identity—all rolled into one.
+Open source is no longer just a technical movement. It's economic resilience, geopolitical strategy, and cultural identity-all rolled into one.
 
 In a tariff-driven, IP-hostile, increasingly decoupled world: Open source is the last neutral ground.
 
-And everyone—from engineers to policymakers—should pay attention.
+And everyone - from engineers to policymakers - should pay attention.
 
 ### References
 
