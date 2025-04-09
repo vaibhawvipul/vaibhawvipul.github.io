@@ -51,11 +51,11 @@ For China, Open source is an offensive play.
 
 ![Linux Supporters list](../../../assets/images/open-source-shaping-geo-politics-us-china/Linux Contributors.png)
 
-Though IBM is the longest and arguably the most foundational Linux supporter on this list, Companies like Huawei, Alibaba, Baidu, Tencent, etc. are also on this list.
+Though IBM is the longest and arguably the most foundational Linux supporter on this list, Companies like Huawei, Alibaba, Baidu, Tencent, etc. are also on this list of Linux Supporters.
 
 Most people knew about China open source after the deepseek event. However, the reality is that China has been investing in open source for a long time.
 
-Open source is a hedge against tarrifs. It is a hedge against geopolitics. It allows companies to operate without worrying about paying 100x the price for a software license. Let's support Linux because China may not get Windows!
+Open source is a hedge against tarrifs. It is a hedge against geopolitics. It allows companies to operate without worrying about paying 100x the price for a software license. From China's perspective - Let's support Linux because we may not get Windows!
 
 Open source also allows China to play in the market without worrying about accusations of IP theft. [US has accused China of IP theft in the past](https://en.wikipedia.org/wiki/Allegations_of_intellectual_property_infringement_by_China#:~:text=increased%20financial%20penalties.-,U.S.%20enforcement%20efforts%20and%20litigation,UMC%20of%20stealing%20chip%20designs.).
 
@@ -65,9 +65,11 @@ I have seen China being an extremely important contributor in Apache foundation 
 
 ![Apache Foundation Sponsors](../../../assets/images/open-source-shaping-geo-politics-us-china/Apache Foundation Sponsors.png)
 
-If we pay attention to the list of sponsors, we can see that the companies like Huawei are among the top backers of open source. [Huawei is facing business-restrictions in the US](https://en.wikipedia.org/wiki/Criticism_of_Huawei#U.S._business_restrictions).
+If we pay attention to the list of sponsors for Apache foundation, we can see that the companies like Huawei are among the top backers of open source. [Huawei is facing business-restrictions in the US](https://en.wikipedia.org/wiki/Criticism_of_Huawei#U.S._business_restrictions).
 
 David Nalley, the Chairman of the Apache Software Foundation, noted in a public speech that China's contribution to Apache traffic had risen dramatically, exceeding 40%. Several open source projects have been started in China, and many of them are now being used by the Apache Software Foundation.
+
+We can also take a look at CNCF sponsors.
 
 ![CNCF Sponsors](../../../assets/images/open-source-shaping-geo-politics-us-china/CNCF sponsors.png)
 
