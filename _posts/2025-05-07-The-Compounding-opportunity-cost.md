@@ -53,11 +53,6 @@ $500M for a team, not a product. Facebook was also bidding. Google moved fast, w
 **Google snaps up YouTube (2006)**
 $1.65B for a startup drowning in copyright risk. Yahoo was reportedly hours away from closing a deal. Google outbid at the last minute. YouTube now makes $50B+ per year. The cost of missing that window? Losing the future of online video.
 
-**OpenAI acquires Windsurf (2025)**
-$3B for Codeium’s parent. Windsurf had ~$40M ARR and momentum. OpenAI could’ve built its own assistant—or lose the space to GitHub Copilot, Cursor, and others. This wasn’t a revenue deal; it was a defensive play to control a growing wedge of the developer ecosystem.
-
-In all cases, the upfront price seemed high. But the cost of waiting would’ve been higher.
-
 ## When Timing Goes Wrong
 
 Being late is sometimes worse than never showing up.
