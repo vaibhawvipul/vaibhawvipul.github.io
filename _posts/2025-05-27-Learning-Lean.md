@@ -1,11 +1,9 @@
 ---
 layout: post
-title: 'Learning Lean'
+title: 'Why I’m Learning Lean: A Systems Engineer’s Mathematical Adventure'
 date: 2025-05-27
 author: "Vipul Vaibhaw"
 ---
-
-# Why I'm Learning Lean: A Systems Engineer's Mathematical Adventure
 
 As a systems engineer with a math background, I've always been fascinated by the intersection of logic and computation. Recently, I started learning Lean, a theorem prover that lets you write mathematical proofs the computer can verify. It's surprisingly fun - there's something deeply satisfying about proving that `odd × odd = odd` and watching Lean confirm your reasoning is airtight.
 
