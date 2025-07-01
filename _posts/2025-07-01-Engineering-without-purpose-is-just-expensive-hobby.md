@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Engineering Without Purpose Is Just Expensive Hobby Code'
+title: 'Engineering Without Purpose Is Just An Expensive Hobby'
 date: 2025-07-01
 author: "Vipul Vaibhaw"
 ---
