@@ -34,8 +34,6 @@ There are several examples -
 - **Telegram**: Less than 30 engineers and 900 million users.
 - **John Carmack**: The legendary game developer who built the original Doom and Quake engines with a small team (probably 4), focusing on technical innovation and user experience.
 
-As engineers, you don’t need permission to build something great. You just need focus, feedback, and the courage to stay close to the problem.
-
 You don't need permission to build something great. You don't need a perfect roadmap. You don't need executive alignment.
 
 You need to solve a real problem better than anyone else.
