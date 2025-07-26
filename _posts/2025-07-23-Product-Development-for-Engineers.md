@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Product Development for Engineers'
-date: 2025-07-01
+date: 2025-07-23
 author: "Vipul Vaibhaw"
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Trust vs Bugs: Shipping Deep Tech'
-date: 2025-07-01
+date: 2025-07-11
 author: "Vipul Vaibhaw"
 ---
 
