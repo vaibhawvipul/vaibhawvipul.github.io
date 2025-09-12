@@ -1,5 +1,7 @@
 # Stop Outsourcing Your Thinking to Abstractions
 
+*Note - This post is drafted with the help of LLM. English is not my first language. If you find any mistakes, please point them out to me. Also these are my personal notes, I write for myself. If you find it useful, great. If not, that's okay too.*
+
 Your next production outage won't be caused by what you know. It will be caused by what your abstractions hid from you.
 Three days. Five engineers. One memory leak. Zero understanding of the actual system.
 
