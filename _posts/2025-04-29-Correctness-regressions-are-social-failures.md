@@ -115,4 +115,3 @@ Guard your correctness like your future depends on it. Because it does.
 ## References
 - [Engineering a Safer World by Nancy G. Leveson. MIT Press.](https://mitpress.mit.edu/9780262533690/engineering-a-safer-world/)
 
-Drafted with AI assistance for speed; all ideas and judgments are mine.
