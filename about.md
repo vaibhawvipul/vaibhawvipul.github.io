@@ -63,6 +63,7 @@ I love contributing to open source projects. I think open source is a great way 
 I am working on projects like -
 - [Apache Datafusion-Comet](https://github.com/apache/datafusion-comet/pulls?q=is%3Apr+author%3Avaibhawvipul+is%3Aclosed): It is a Spark Accelerator written in rust and scala.
 - [raft-rs](https://github.com/spacewalkhq/raft-rs) (maintainer and author): An understandable, fast, customizable and scalable async-await Raft consensus algorithm implementation with zero-copy and self-healing storage.
+- [taper](https://github.com/vaibhawvipul/taper) - An autograd engine with dynamic computational graph and neural network library. Uses optimized BLAS for matmul and SIMD for element-wise operations. Zero-copy tensors.
 - [arroyo](https://github.com/ArroyoSystems/arroyo/pulls?q=is%3Apr+author%3Avaibhawvipul+is%3Aclosed): A distributed stream processing engine written in rust.
 
 I've also made minor contributions to [Apache Iceberg-rust](https://github.com/apache/iceberg-rust/pulls?q=is%3Apr+author%3Avaibhawvipul+is%3Aclosed), [ParadeDB](https://github.com/paradedb/paradedb/pulls?q=is%3Apr+author%3Avaibhawvipul+is%3Aclosed) etc.
