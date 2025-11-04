@@ -54,7 +54,7 @@ Then comes the solution: minimal machinery with maximal insight.
 Wiles proof spanned 150 pages and required machinery from elliptic curves, modular forms, and Galois representations. At first glance, this seems to contradict everything I've said about simplicity.
 But Wiles' proof does one thing well: it proves FLT.
 
-The proof revealed that elliptic curves and modular forms—two areas of math that seemed unrelated—are deeply connected. It proved the Taniyama-Shimura-Weil conjecture, showing that every elliptic curve is secretly a modular form in disguise.
+The proof revealed that elliptic curves and modular forms - two areas of math that seemed unrelated-are deeply connected. It proved the Taniyama-Shimura-Weil conjecture, showing that every elliptic curve is secretly a modular form in disguise.
 
 This is elegant unification: revealing hidden symmetry. Beautiful!
 
@@ -81,7 +81,7 @@ Both Math and Programming have a formal structure. Beauty arises when a small, c
 
 ## Conclusion
 
-Beauty, in both math and code, is not what you write or build — it’s what remains after everything unnecessary has been stripped away.
+Beauty, in both math and code, is not what you write or build - it’s what remains after everything unnecessary has been stripped away.
 
 The pursuit isn't decoration. It's clarity. And clarity, counter-intuitively, is what happens when you stop trying to be clever and start trying to be understood.
 
