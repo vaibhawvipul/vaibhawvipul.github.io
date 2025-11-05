@@ -47,6 +47,16 @@ For example, no such integer triples exist such that $a^n + b^n = c^n, n>2$ (Fer
 
 > Once the problem is clear, beauty shifts from definition to execution.
 
+---
+
+It’s worth noting that understanding doesn’t always precede expression. Often, it’s the other way around.
+
+Mathematicians and programmers alike write to think - they formalize half-formed intuitions to see them clearly. The act of codifying a vague idea is itself a path to clarity. The point is to let beauty emerge(the beauty of expression), rather than chase it or force it.
+
+Iteration loop is often a path to beauty.
+
+---
+
 Beauty scales.
 
 Then comes the solution: minimal machinery with maximal insight.
