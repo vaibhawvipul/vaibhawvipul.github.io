@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Beauty as Residue: What Math Taught Me About Code"
-date: 2025-10-06
+date: 2025-11-04
 author: "Vipul Vaibhaw"
 ---
 
