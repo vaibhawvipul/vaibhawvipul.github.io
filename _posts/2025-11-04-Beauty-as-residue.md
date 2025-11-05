@@ -43,7 +43,11 @@ There are often two steps -
 
 This clears our objective.
 
-For example, no such integer triples exist such that $a^n + b^n = c^n, n>2$ (Fermat's Last Theorem) This problem statement is beautifully simple. A well-defined problem.
+For example, no such integer triples exist such that (Fermat's Last Theorem) -
+
+$$a^n + b^n = c^n, n>2$$
+
+This problem statement is beautifully simple. A well-defined problem.
 
 > Once the problem is clear, beauty shifts from definition to execution.
 
