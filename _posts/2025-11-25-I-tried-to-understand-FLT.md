@@ -122,7 +122,7 @@ Pure math still captivates my imagination and it will, always! And the commitmen
 ---
 
 **Footnote:**
-[1] The topology lecture series I followed: https://youtube.com/playlist?list=PLOROtRhtegr7DmeMyFxfKxsljAVsAn_X4&si=T4fGiYYEzS_kk2zt
+[1] The topology lecture series I followed: [Algebraic Topology by Math at Andrews University ](https://youtube.com/playlist?list=PLOROtRhtegr7DmeMyFxfKxsljAVsAn_X4&si=T4fGiYYEzS_kk2zt)
 
 ---
 
