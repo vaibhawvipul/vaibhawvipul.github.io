@@ -59,7 +59,11 @@ Where I actually stand with FLT: I am only able to understand the structure of i
   $$
   \bar\rho_{E,p}: \mathrm{Gal}(\overline{\mathbb{Q}}/\mathbb{Q}) \to \mathrm{GL}_2(\mathbb{F}_p).
   $$
-- This representation is unramified outside primes dividing $2abc$, and (for
+- This representation is unramified outside primes dividing
+  $$
+  2abc
+  $$
+  , and (for
   $$
     p>7
   $$
@@ -76,7 +80,11 @@ Where I actually stand with FLT: I am only able to understand the structure of i
 
 ### Ribet’s Theorem
 - Ribet proved Serre’s “epsilon conjecture” in this setting:
-  if the Frey curve were modular, its mod-$p$ representation would have to come from a **weight-2 newform of level 2**.
+  if the Frey curve were modular, its mod-
+  $$
+    p
+  $$
+  representation would have to come from a **weight-2 newform of level 2**.
 
 ### The Contradiction
 - But there are **no** weight-2 newforms of level 2 (the space
