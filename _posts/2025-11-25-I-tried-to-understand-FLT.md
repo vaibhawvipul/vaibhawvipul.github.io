@@ -30,7 +30,10 @@ Where I actually stand with FLT: I am only able to understand the structure of i
 ## The proof structure (as I understand it)
 
 ### The Setup
-- For $p>2$.
+- For
+  $$
+    p>2
+  $$
 - Assume, there is a nontrivial coprime integer solution:
   $$
   a^p + b^p = c^p,\qquad abc\neq 0,\ \gcd(a,b,c)=1.
@@ -41,17 +44,33 @@ Where I actually stand with FLT: I am only able to understand the structure of i
   $$
   E_{a,b,p}:\quad y^2 = x(x-a^p)(x+b^p).
   $$
-- This curve is **semistable** over $\mathbb{Q}$ and has extremely constrained reduction behavior.
+- This curve is **semistable** over
+  $$
+    \mathbb{Q}
+  $$
+  and has extremely constrained reduction behavior.
 
 ### The Galois Representation
-- The $p$-torsion points give a mod-$p$ Galois representation:
+- The
+  $$
+    p
+  $$
+  -torsion points give a mod-$p$ Galois representation:
   $$
   \bar\rho_{E,p}: \mathrm{Gal}(\overline{\mathbb{Q}}/\mathbb{Q}) \to \mathrm{GL}_2(\mathbb{F}_p).
   $$
-- This representation is unramified outside primes dividing $2abc$, and (for $p>7$) is **irreducible**.
+- This representation is unramified outside primes dividing $2abc$, and (for
+  $$
+    p>7
+  $$
+  ) is **irreducible**.
 
 ### Modularity
-- The Modularity Conjecture(Taniyama-Shimura) - elliptic curves over $\mathbb{Q}$ correspond to weight-2 modular forms.
+- The Modularity Conjecture(Taniyama-Shimura) - elliptic curves over
+  $$
+    \mathbb{Q}
+  $$
+  correspond to weight-2 modular forms.
 - Wiles proved this for **semistable** elliptic curves.
   So the Frey curve would have to be modular.
 
@@ -60,11 +79,18 @@ Where I actually stand with FLT: I am only able to understand the structure of i
   if the Frey curve were modular, its mod-$p$ representation would have to come from a **weight-2 newform of level 2**.
 
 ### The Contradiction
-- But there are **no** weight-2 newforms of level 2 (the space $S_2(\Gamma_0(2))$ is zero).
+- But there are **no** weight-2 newforms of level 2 (the space
+  $$
+    S_2(\Gamma_0(2))
+  $$
+  is zero).
 - So a modular Frey curve cannot exist.
 - Yet Wiles forces it to be modular.
 - Contradiction.
-- Therefore the original Fermat equation has no solutions for $p>2$.
+- Therefore the original Fermat equation has no solutions for
+  $$
+    p>2
+  $$
 
 ---
 
