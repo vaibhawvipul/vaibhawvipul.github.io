@@ -1,4 +1,9 @@
-# What Fermat Led Me To
+---
+layout: post
+title: "The Shared State of Mathematics"
+date: 2025-12-30
+author: "Vipul Vaibhaw"
+---
 
 Ending this year with a small reflection on my advance math journey so far...
 
@@ -15,7 +20,15 @@ And at the center of it all, I kept finding the same object. Again and again.
 
 ## The Upper Half-Plane: One Space, Three Approaches
 
-ℍ, the upper half-plane: $a + bi$ where $b > 0$. Positive imaginary part.
+ℍ, the upper half-plane:
+
+$$a + bi$$
+
+where
+
+$$b > 0$$
+
+. Positive imaginary part.
 
 I started with Silverman’s Rational Points on Elliptic Curves, because that’s where FLT proof by Wiles had pointed initially. Elliptic curves over ℂ are tori - quotients of the complex plane by lattices. At first this felt like a technical detail. Then I realized that every lattice is encoded by a single complex number with positive imaginary part. In other words, by a point in the upper half-plane. This was an algebraic number theory perspective on ℍ.
 
