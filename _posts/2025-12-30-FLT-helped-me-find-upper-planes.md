@@ -42,7 +42,11 @@ That’s structure. The unifying object. The same space, appearing in three diff
 
 ## The Group: SL₂(ℤ)
 
-Why does ℍ appear everywhere? The answer lies in a group: $\text{SL}_2(\mathbb{Z})$, the group of 2×2 integer matrices with determinant 1.
+Why does ℍ appear everywhere? The answer lies in a group:
+
+$$\text{SL}_2(\mathbb{Z})$$
+
+, the group of 2×2 integer matrices with determinant 1.
 
 $$\text{SL}_2(\mathbb{Z}) = \left\{ \begin{pmatrix} a & b \\ c & d \end{pmatrix} : a,b,c,d \in \mathbb{Z}, \quad ad - bc = 1 \right\}$$
 
@@ -50,17 +54,27 @@ This group acts on ℍ by Möbius transformations:
 
 $$\tau \mapsto \frac{a\tau + b}{c\tau + d}$$
 
-You can verify this maps ℍ to itself: if τ has positive imaginary part, so does $\frac{a\tau + b}{c\tau + d}$ (the determinant condition $ad - bc = 1$ is what guarantees this).
+You can verify this maps ℍ to itself: if τ has positive imaginary part, so does
 
-**For elliptic curves:** An elliptic curve over ℂ is ℂ/Λ for a lattice Λ. We can always write Λ = ℤω₁ + ℤω₂ and, after scaling, normalize to Λ = ℤ + ℤτ where τ ∈ ℍ. But the same lattice has many bases — if we pick a different basis, we get a different τ. The matrix $\begin{pmatrix} a & b \\ c & d \end{pmatrix}$ changes basis: it sends (1, τ) to (c + dτ, a + bτ), which after renormalizing gives τ' = $\frac{a\tau + b}{c\tau + d}$. Same lattice, different τ. So two points in ℍ represent isomorphic elliptic curves if and only if they're related by SL₂(ℤ).
+$$\frac{a\tau + b}{c\tau + d}$$
+
+(the determinant condition $ad - bc = 1$ is what guarantees this).
+
+**For elliptic curves:** An elliptic curve over ℂ is ℂ/Λ for a lattice Λ. We can always write Λ = ℤω₁ + ℤω₂ and, after scaling, normalize to Λ = ℤ + ℤτ where τ ∈ ℍ. But the same lattice has many bases — if we pick a different basis, we get a different τ. The matrix
+
+$$\begin{pmatrix} a & b \\ c & d \end{pmatrix}$$
+
+changes basis: it sends (1, τ) to (c + dτ, a + bτ), which after renormalizing gives τ' = $$\frac{a\tau + b}{c\tau + d}$$.
+
+Same lattice, different τ. So two points in ℍ represent isomorphic elliptic curves if and only if they're related by SL₂(ℤ).
 
 **For modular forms:** Since elliptic curves are really parameterized by ℍ/SL₂(ℤ), functions that depend only on the isomorphism class of the curve must be invariant (or transform predictably) under SL₂(ℤ). A modular form of weight k transforms as:
 
 $$f\left(\frac{a\tau + b}{c\tau + d}\right) = (c\tau + d)^k f(\tau)$$
 
-The factor $(c\tau + d)^k$ appears because we're really tracking how differentials transform, not just functions. Weight-0 modular functions (like the j-invariant) are genuinely invariant.
+The factor $$(c\tau + d)^k$$ appears because we're really tracking how differentials transform, not just functions. Weight-0 modular functions (like the j-invariant) are genuinely invariant.
 
-**For hyperbolic geometry:** The hyperbolic metric on ℍ is $ds^2 = \frac{dx^2 + dy^2}{y^2}$. A direct calculation shows that Möbius transformations from SL₂(ℝ) preserve this metric — they're isometries. The discrete subgroup SL₂(ℤ) acts by isometries with a fundamental domain of finite hyperbolic area. This is why the quotient ℍ/SL₂(ℤ) is a hyperbolic surface (an orbifold, technically, due to fixed points).
+**For hyperbolic geometry:** The hyperbolic metric on ℍ is $$ds^2 = \frac{dx^2 + dy^2}{y^2}$$. A direct calculation shows that Möbius transformations from SL₂(ℝ) preserve this metric — they're isometries. The discrete subgroup SL₂(ℤ) acts by isometries with a fundamental domain of finite hyperbolic area. This is why the quotient ℍ/SL₂(ℤ) is a hyperbolic surface (an orbifold, technically, due to fixed points).
 
 ![Fundamental Domain](../../../assets/images/FLT-lead-me-to-upper-planes/ModularGroup-FundamentalDomain.svg)
 
@@ -68,11 +82,11 @@ The factor $(c\tau + d)^k$ appears because we're really tracking how differentia
 
 ## The j-invariant
 
-There's a single function $j: \mathbb{H} \to \mathbb{C}$ that completely classifies elliptic curves over ℂ.
+There's a single function $$j: \mathbb{H} \to \mathbb{C}$$ that completely classifies elliptic curves over ℂ.
 
 Two elliptic curves are isomorphic if and only if they have the same j-invariant.
 
-The j-invariant is a modular function — it's invariant under SL₂(ℤ), meaning $j(\gamma \tau) = j(\tau)$ for any $\gamma \in \text{SL}_2(\mathbb{Z})$. So it descends to a function on the quotient ℍ/SL₂(ℤ), the moduli space of elliptic curves.
+The j-invariant is a modular function — it's invariant under SL₂(ℤ), meaning $$j(\gamma \tau) = j(\tau)$$ for any $$\gamma \in \text{SL}_2(\mathbb{Z})$$. So it descends to a function on the quotient ℍ/SL₂(ℤ), the moduli space of elliptic curves.
 
 What's remarkable is that j is a *bijection* from ℍ/SL₂(ℤ) to ℂ. Every complex number is the j-invariant of some elliptic curve. The complex plane itself is secretly a moduli space.
 
@@ -80,11 +94,11 @@ And the Fourier expansion of j:
 
 $$j(\tau) = \frac{1}{q} + 744 + 196884q + 21493760q^2 + \cdots$$
 
-where $q = e^{2\pi i \tau}$.
+where $$q = e^{2\pi i \tau}$$.
 
 In 1978, John McKay noticed something strange: 196884 = 196883 + 1, where 196883 is the dimension of the smallest non-trivial representation of the Monster group (the largest sporadic simple group). The next coefficient decomposes similarly: 21493760 = 21296876 + 196883 + 1, matching other Monster representation dimensions.
 
-Conway and Norton conjectured this pattern was real — that the coefficients of j are sums of dimensions of Monster representations. Borcherds proved it later.
+Conway and Norton conjectured this pattern was real - that the coefficients of j are sums of dimensions of Monster representations. Borcherds proved it later.
 
 A function that classifies elliptic curves somehow "knows" about the Monster group.
 
@@ -104,7 +118,7 @@ An elliptic curve over ℂ is ℂ/Λ for a lattice Λ. Up to scaling, Λ is dete
 
 **Geometry (Hyperbolic Manifolds)**
 
-Equip ℍ with the metric $ds^2 = \frac{dx^2 + dy^2}{y^2}$, and it becomes the hyperbolic plane — constant curvature −1. The group SL₂(ℝ) acts by isometries; SL₂(ℤ) is a discrete subgroup. Hyperbolic manifolds arise as quotients by such discrete groups, and their geometry encodes number-theoretic information (volumes relate to special values of zeta functions, for instance).
+Equip ℍ with the metric $$ds^2 = \frac{dx^2 + dy^2}{y^2}$$, and it becomes the hyperbolic plane — constant curvature −1. The group SL₂(ℝ) acts by isometries; SL₂(ℤ) is a discrete subgroup. Hyperbolic manifolds arise as quotients by such discrete groups, and their geometry encodes number-theoretic information (volumes relate to special values of zeta functions, for instance).
 
 ---
 
@@ -112,9 +126,9 @@ Equip ℍ with the metric $ds^2 = \frac{dx^2 + dy^2}{y^2}$, and it becomes the h
 
 But ℍ isn't the only fundamental space. There's another coordinate system that keeps appearing: the p-adic numbers.
 
-For each prime p, there's a different way to measure "closeness" of integers. In the usual (Archimedean) sense, 1000000 is far from 0. But in the 5-adic sense, $5^{10}$ is *extremely* close to 0 — because it's divisible by a high power of 5.
+For each prime p, there's a different way to measure "closeness" of integers. In the usual (Archimedean) sense, 1000000 is far from 0. But in the 5-adic sense, $$5^{10}$$ is *extremely* close to 0 — because it's divisible by a high power of 5.
 
-This gives you $\mathbb{Q}_p$, the p-adic numbers: a completion of the rationals that's entirely different from ℝ. And $\mathbb{Q}_p$ has its own geometry, its own analysis, its own version of "the upper half-plane" (the p-adic upper half-plane, due to Drinfeld).
+This gives you $$\mathbb{Q}_p$$, the p-adic numbers: a completion of the rationals that's entirely different from ℝ. And $$\mathbb{Q}_p$$ has its own geometry, its own analysis, its own version of "the upper half-plane" (the p-adic upper half-plane, due to Drinfeld).
 
 Here's what's wild: the full picture of an elliptic curve, or a modular form, or a Galois representation, requires looking at it from *all* these perspectives simultaneously. The real place (classical complex analysis on ℍ) and all the p-adic places. The mathematical object exists in some higher-dimensional sense, and each prime gives you a different projection.
 
