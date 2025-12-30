@@ -58,7 +58,7 @@ You can verify this maps ℍ to itself: if τ has positive imaginary part, so do
 
 $$\frac{a\tau + b}{c\tau + d}$$
 
-(the determinant condition $ad - bc = 1$ is what guarantees this).
+(the determinant condition $$ad - bc = 1$$ is what guarantees this).
 
 **For elliptic curves:** An elliptic curve over ℂ is ℂ/Λ for a lattice Λ. We can always write Λ = ℤω₁ + ℤω₂ and, after scaling, normalize to Λ = ℤ + ℤτ where τ ∈ ℍ. But the same lattice has many bases — if we pick a different basis, we get a different τ. The matrix
 
