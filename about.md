@@ -24,7 +24,7 @@ Philosophy: [Unix](https://en.wikipedia.org/wiki/Unix_philosophy) + [TIGER_STYLE
 
 I maintain [raft-rs](https://github.com/spacewalkhq/raft-rs) - an async Raft implementation with zero-copy storage. Built [taper](https://github.com/vaibhawvipul/taper), an autograd engine with SIMD-optimized ops.
 
-Contributor to [Apache Datafusion-Comet](https://github.com/apache/datafusion-comet/pulls?q=is%3Apr+author%3Avaibhawvipul+is%3Aclosed) (Spark accelerator in Rust), [Arroyo](https://github.com/ArroyoSystems/arroyo/pulls?q=is%3Apr+author%3Avaibhawvipul+is%3Aclosed) (stream processing), [Apache Iceberg-rust](https://github.com/apache/iceberg-rust/pulls?q=is%3Apr+author%3Avaibhawvipul+is%3Aclosed), and others.
+Contributor to [SGLang](https://github.com/sgl-project/sglang/pulls?q=is%3Apr+author%3Avaibhawvipul+is%3Aclosed) (LLM serving framework), [Apache Datafusion-Comet](https://github.com/apache/datafusion-comet/pulls?q=is%3Apr+author%3Avaibhawvipul+is%3Aclosed) (Spark accelerator in Rust), [Arroyo](https://github.com/ArroyoSystems/arroyo/pulls?q=is%3Apr+author%3Avaibhawvipul+is%3Aclosed) (stream processing), [Apache Iceberg-rust](https://github.com/apache/iceberg-rust/pulls?q=is%3Apr+author%3Avaibhawvipul+is%3Aclosed), and others.
 
 ## Teaching
 
