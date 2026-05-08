@@ -124,7 +124,7 @@ because the $$SL_2(\mathbb{R})$$ Möbius action stares you in the face. A few th
 - It is **conformal**. It scales the Euclidean metric pointwise by $$1/y^2$$ but does not deform angles. Hyperbolic angles equal Euclidean angles. This is enormously useful — you can read angles off pictures without worrying about the distortion.
 - It is **incomplete from the bottom**. As $$y \to 0$$, distances blow up. The real axis is infinitely far away. It is not part of the space. It is the *boundary at infinity*, often denoted $$\partial \mathbb{H} = \mathbb{R} \cup \{\infty\}$$.
 - It is **invariant under horizontal translation**. The metric does not depend on $$x$$, so $$z \mapsto z + a$$ is an isometry for any $$a \in \mathbb{R}$$.
-- It is **invariant under positive vertical scaling**. Under $$z \mapsto \lambda z$$ for $$\lambda > 0$$, both $$|dz|$$ and $$y$$ scale by $$\lambda$$, so $$|dz|/y$$ is unchanged. This is the only "scaling" that survives, and it is the analogue of translation along a hyperbolic geodesic.
+- It is **invariant under positive vertical scaling**. Under $$z \mapsto \lambda z$$ for $$\lambda > 0$$, both $$\lvert dz \rvert$$ and $$y$$ scale by $$\lambda$$, so $$\lvert dz \rvert / y$$ is unchanged. This is the only "scaling" that survives, and it is the analogue of translation along a hyperbolic geodesic.
 
 These three facts already pin down a lot of the structure. Everything else follows.
 
@@ -148,7 +148,7 @@ For any other curve $$\eta = (x(t), y(t))$$ between the same two heights,
 
 $$L(\eta) \;=\; \int \frac{\sqrt{\dot{x}^2 + \dot{y}^2}}{y}\, dt \;\geq\; \int \frac{|\dot{y}|}{y}\, dt \;\geq\; \log(b/a).$$
 
-So vertical lines are length-minimizing. Now use isometries to find every other geodesic. The map $$z \mapsto -1/z$$ is an isometry (we will verify this in §7). It fixes the unit semicircle $$|z| = 1$$ setwise, sends the imaginary axis to itself, and more usefully sends a generic vertical line to a Euclidean semicircle perpendicular to the real axis. Composing with horizontal translations $$z \mapsto z + a$$ gives every Euclidean semicircle whose center sits on $$\mathbb{R}$$.
+So vertical lines are length-minimizing. Now use isometries to find every other geodesic. The map $$z \mapsto -1/z$$ is an isometry (we will verify this in §7). It fixes the unit semicircle $$\lvert z \rvert = 1$$ setwise, sends the imaginary axis to itself, and more usefully sends a generic vertical line to a Euclidean semicircle perpendicular to the real axis. Composing with horizontal translations $$z \mapsto z + a$$ gives every Euclidean semicircle whose center sits on $$\mathbb{R}$$.
 
 So the geodesics of $$\mathbb{H}$$ are exactly:
 
@@ -209,7 +209,7 @@ $$|dz| \;\mapsto\; \frac{|dz|}{|cz + d|^2},
 \qquad
 y \;\mapsto\; \frac{y}{|cz + d|^2},$$
 
-and both numerator and denominator of $$|dz|/y$$ pick up the same factor $$|cz + d|^{-2}$$. The ratio is preserved. The metric is invariant. Done.
+and both numerator and denominator of $$\lvert dz \rvert / y$$ pick up the same factor $$\lvert cz + d \rvert^{-2}$$. The ratio is preserved. The metric is invariant. Done.
 
 ### $$SL_2$$ vs $$PSL_2$$: why the quotient by $$\pm I$$
 
@@ -276,7 +276,7 @@ This same Iwasawa decomposition is what powers the theory of automorphic forms. 
 
 ## 8. Classification of isometries by trace
 
-Möbius transformations come in three flavors, distinguished by the trace of any representative matrix in $$SL_2(\mathbb{R})$$. Let $$t = |\operatorname{tr}(g)|$$.
+Möbius transformations come in three flavors, distinguished by the trace of any representative matrix in $$SL_2(\mathbb{R})$$. Let $$t = \lvert \operatorname{tr}(g) \rvert$$.
 
 - **Elliptic** $$(t < 2)$$: one fixed point in $$\mathbb{H}$$, no fixed points on the boundary. Acts as a hyperbolic rotation about the interior fixed point. Example: $$z \mapsto -1/z$$ has trace $$0$$ and fixes $$i$$.
 - **Parabolic** $$(t = 2)$$: no fixed points in $$\mathbb{H}$$, exactly one fixed point on the boundary $$\partial \mathbb{H}$$. Acts by sliding along *horocycles* — curves that look like horizontal lines (when the fixed point is $$\infty$$) or Euclidean circles tangent to the real axis (otherwise). Example: $$z \mapsto z + 1$$ has trace $$2$$ and fixes $$\infty$$.
@@ -312,8 +312,8 @@ $$\mathcal{F} \;=\; \left\{ \tau \in \mathbb{H} : |\tau| \geq 1, \; -\tfrac{1}{2
 
 Every $$SL_2(\mathbb{Z})$$-orbit on $$\mathbb{H}$$ meets $$\mathcal{F}$$, and meets it exactly once except on the boundary identifications. The proof is a tidy two-step:
 
-1. Pick any $$\tau \in \mathbb{H}$$. Use a power of $$T$$ to move $$\tau$$ into the strip $$|\operatorname{Re}(\tau)| \leq 1/2$$.
-2. If $$|\tau| < 1$$, apply $$S$$. Since $$\operatorname{Im}(-1/\tau) = \operatorname{Im}(\tau)/|\tau|^2$$, this strictly increases the imaginary part. Repeat steps 1 and 2. The imaginary part is bounded above on any $$SL_2(\mathbb{Z})$$-orbit (because $$|c\tau + d|^2$$ over integer pairs $$(c, d)$$ has a positive minimum), so the process terminates inside $$\mathcal{F}$$.
+1. Pick any $$\tau \in \mathbb{H}$$. Use a power of $$T$$ to move $$\tau$$ into the strip $$\lvert \operatorname{Re}(\tau) \rvert \leq 1/2$$.
+2. If $$\lvert \tau \rvert < 1$$, apply $$S$$. Since $$\operatorname{Im}(-1/\tau) = \operatorname{Im}(\tau)/\lvert \tau \rvert^2$$, this strictly increases the imaginary part. Repeat steps 1 and 2. The imaginary part is bounded above on any $$SL_2(\mathbb{Z})$$-orbit (because $$\lvert c\tau + d \rvert^2$$ over integer pairs $$(c, d)$$ has a positive minimum), so the process terminates inside $$\mathcal{F}$$.
 
 The hyperbolic area of $$\mathcal{F}$$ is
 
@@ -356,7 +356,7 @@ This is also where the cusp matters. The cusp at $$\infty$$ corresponds to $$\ta
 
 ## 11. The Poincaré disk model and the Cayley transform
 
-The upper half-plane is the right model when you want to do Fourier expansion at the cusp $$\infty$$. But for actually visualizing the geometry — fundamental domains of cocompact groups, Escher's *Circle Limit*, ideal triangles — the **Poincaré disk** $$\mathbb{D} = \{ w \in \mathbb{C} : |w| < 1 \}$$ with metric
+The upper half-plane is the right model when you want to do Fourier expansion at the cusp $$\infty$$. But for actually visualizing the geometry — fundamental domains of cocompact groups, Escher's *Circle Limit*, ideal triangles — the **Poincaré disk** $$\mathbb{D} = \{ w \in \mathbb{C} : \lvert w \rvert < 1 \}$$ with metric
 
 $$ds^2 \;=\; \frac{4 \, (du^2 + dv^2)}{(1 - u^2 - v^2)^2}$$
 
@@ -380,7 +380,7 @@ Take the ideal triangle with vertices at $$0, 1, \infty$$. Its three sides are:
 
 - the vertical line $$x = 0$$ (geodesic from $$0$$ to $$\infty$$),
 - the vertical line $$x = 1$$ (geodesic from $$1$$ to $$\infty$$),
-- the upper semicircle $$|z - 1/2| = 1/2$$, i.e. $$y = \sqrt{x(1 - x)}$$ for $$0 \leq x \leq 1$$ (geodesic from $$0$$ to $$1$$).
+- the upper semicircle $$\lvert z - 1/2 \rvert = 1/2$$, i.e. $$y = \sqrt{x(1 - x)}$$ for $$0 \leq x \leq 1$$ (geodesic from $$0$$ to $$1$$).
 
 The interior is $$\{ (x, y) : 0 < x < 1, \; y > \sqrt{x(1-x)} \}$$, so
 
